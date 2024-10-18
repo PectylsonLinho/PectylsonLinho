@@ -3,7 +3,7 @@
 - I'm young dev junior who never gets tired of learning more technologies and I look for new challenges to raise my skills even more.
 - 🌱 I’m currently learning:
 
-                            Python  Django JavaScript Node  GitHub  Git html css3
+                            Python  FastApi  JavaScript  GitHub  Git html css3
 
 <!---
 PectylsonLinho/PectylsonLinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
